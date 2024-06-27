@@ -8,7 +8,11 @@ public class GameManager : ScriptableObject
 {
 
 
-   
+    private void OnEnable()
+    {
+        
+    }
 
-    
+
+
 }
