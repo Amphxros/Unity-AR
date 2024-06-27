@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig>
-  <Tracking>
-    <ImageTarget name="cartel" size="1.000000 1.413889" />
-    <ImageTarget name="carta-cofre" size="1.000000 1.419547" />
-    <ImageTarget name="carta-enemy" size="1.000000 1.419547" />
-    <ImageTarget name="carta-hoguera" size="1.000000 1.419547" />
-  </Tracking>
-</QCARConfig>
